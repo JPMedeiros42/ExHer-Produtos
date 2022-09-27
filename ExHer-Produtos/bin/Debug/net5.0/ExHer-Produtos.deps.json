@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExHer-Produtos/1.0.0": {
+        "runtime": {
+          "ExHer-Produtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExHer-Produtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.exe
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.deps.json
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.runtimeconfig.json
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.runtimeconfig.dev.json
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.dll
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ref\ExHer-Produtos.dll
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\bin\Debug\net5.0\ExHer-Produtos.pdb
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.AssemblyInfo.cs
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.dll
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ref\ExHer-Produtos.dll
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.pdb
+C:\Users\peter\source\repos\ExHer-Produtos\ExHer-Produtos\obj\Debug\net5.0\ExHer-Produtos.genruntimeconfig.cache
